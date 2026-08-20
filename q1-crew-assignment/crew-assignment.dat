@@ -1,0 +1,8 @@
+/*********************************************
+ * OPL 22.1.2.0 Data
+ * Author: alnur
+ * Creation Date: 20 Aug 2026 at 23:09:47
+ *********************************************/
+SheetConnection sheet("Excel Task 1.xlsx");
+c from SheetRead(sheet, "Sheet1!C16:I22"); 
+ 
